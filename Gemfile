@@ -25,6 +25,7 @@ gem 'bulma-rails', '~> 0.9.1'
 gem 'simple_form', '~> 5.1'
 gem 'gravatar_image_tag', '~> 1.2'
 gem 'devise', '~> 4.7', '>= 4.7.1'
+gem "font-awesome-rails"
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
